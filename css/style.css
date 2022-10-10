@@ -1,0 +1,42 @@
+#menzione{
+
+ color : rgb(0, 204, 255);
+}
+
+.evidenziato{
+
+    background-color: rgb(190, 190, 28);
+ }
+
+.colore{
+
+    background-color: aqua;
+}
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+
+thead{
+    color: white;
+    background-color: blue;
+ 
+}
+
+td{
+    width: 30%;
+}
+
+.descrizione{
+
+    margin: 0px;
+    font-size: 10px;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+#topmargin{
+    margin-top: 0px;
+}
