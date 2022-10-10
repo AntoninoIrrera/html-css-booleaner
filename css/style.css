@@ -1,3 +1,9 @@
+header{
+
+   
+}
+
+
 #menzione{
 
  color : rgb(0, 204, 255);
@@ -39,4 +45,30 @@ h1{
 
 #topmargin{
     margin-top: 0px;
+}
+
+#monitor{
+    color: white;
+    width: 300px;
+    height: 220px;
+    background-image: url(../img/monitor.jpg)
+}
+
+#grafica{
+    color: white;
+    width: 300px;
+    height: 220px;
+    background-image: url(../img/graph.jpg)
+    
+}
+
+h2{
+
+    color: gray;
+}
+
+.testo{
+
+    padding: 10px;
+    font-size: 20px;
 }
